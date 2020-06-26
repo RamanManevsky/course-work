@@ -57,3 +57,14 @@ D:\ТМП-81 Маневский Роман\Дипломный проект\Windo
 D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\obj\Release\СУБД ТВ.csproj.CoreCompileInputs.cache
 D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
 D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Release\СУБД ТВ.csprojAssemblyReference.cache
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Autorisation.resources
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.DMS.resources
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Release\СУБД ТВ.csproj.GenerateResource.cache
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Release\СУБД ТВ.csproj.CoreCompileInputs.cache
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
