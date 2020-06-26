@@ -92,3 +92,14 @@ D:\ТМП-81 Маневский Роман\Дипломный проект\Windo
 D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
 D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
 D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Debug\СУБД ТВ.csprojAssemblyReference.cache
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Autorisation.resources
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DMS.resources
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Debug\СУБД ТВ.csproj.GenerateResource.cache
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Debug\СУБД ТВ.csproj.CoreCompileInputs.cache
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Raman\Documents\GitHub\Дипломный проект\course-work\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

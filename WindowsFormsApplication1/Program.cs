@@ -18,7 +18,7 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
-    static  class Program
+    static class Program
     {
         static public bool create = false;
         /// <summary>
@@ -32,11 +32,6 @@ namespace WindowsFormsApplication1
 
             Application.Run(new Autorisation());
             if (Sqlwork.access_ret() == 2) return 0;
-            if (Sqlwork.access_ret() == 0)
-            {
-                Application.Run(new UserDMS());
-                if (create == true)MessageBox.Show("Бронирование аудитории успешно выполнено");
-            }
             else
                 Application.Run(new DMS());
             return 0;
