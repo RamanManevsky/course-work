@@ -1,0 +1,59 @@
+D:\WFRam v1.00 - копия\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\WFRam v1.00 - копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\WFRam v1.00 - копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\WFRam v1.00 - копия\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\WFRam v1.00 - копия\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\WFRam v1.00 - копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Avto.resources
+D:\WFRam v1.00 - копия\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\WFRam v1.00 - копия\WindowsFormsApplication1\obj\Release\СУБД ТВ.csproj.GenerateResource.Cache
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\bin\Release\mscorlib.dll
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\bin\Release\ru\mscorlib.resources.dll
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\bin\Release\normidna.nlp
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\bin\Release\normnfc.nlp
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\bin\Release\normnfd.nlp
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\bin\Release\normnfkc.nlp
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\bin\Release\normnfkd.nlp
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Autorisation.resources
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\obj\Release\СУБД ТВ.csproj.GenerateResource.Cache
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\obj\Release\СУБД ТВ.csprojResolveAssemblyReference.cache
+C:\Users\bg\Documents\СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.DMS.resources
+D:\Downloads\СУБД\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\Downloads\СУБД\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\Downloads\СУБД\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\Downloads\СУБД\WindowsFormsApplication1\obj\Release\СУБД ТВ.csprojAssemblyReference.cache
+D:\Downloads\СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Autorisation.resources
+D:\Downloads\СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.DMS.resources
+D:\Downloads\СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Downloads\СУБД\WindowsFormsApplication1\obj\Release\СУБД ТВ.csproj.GenerateResource.cache
+D:\Downloads\СУБД\WindowsFormsApplication1\obj\Release\СУБД ТВ.csproj.CoreCompileInputs.cache
+D:\Downloads\СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\Downloads\СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\ТМП-71 Маневский Роман\Курсовой проект-СУБД\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\ТМП-71 Маневский Роман\Курсовой проект-СУБД\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\ТМП-71 Маневский Роман\Курсовой проект-СУБД\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\ТМП-71 Маневский Роман\Курсовой проект-СУБД\WindowsFormsApplication1\obj\Release\СУБД ТВ.csprojAssemblyReference.cache
+D:\ТМП-71 Маневский Роман\Курсовой проект-СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Autorisation.resources
+D:\ТМП-71 Маневский Роман\Курсовой проект-СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.DMS.resources
+D:\ТМП-71 Маневский Роман\Курсовой проект-СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\ТМП-71 Маневский Роман\Курсовой проект-СУБД\WindowsFormsApplication1\obj\Release\СУБД ТВ.csproj.GenerateResource.cache
+D:\ТМП-71 Маневский Роман\Курсовой проект-СУБД\WindowsFormsApplication1\obj\Release\СУБД ТВ.csproj.CoreCompileInputs.cache
+D:\ТМП-71 Маневский Роман\Курсовой проект-СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\ТМП-71 Маневский Роман\Курсовой проект-СУБД\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\obj\Release\СУБД ТВ.csprojAssemblyReference.cache
+D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Autorisation.resources
+D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.DMS.resources
+D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.UserDMS.resources
+D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\obj\Release\СУБД ТВ.csproj.GenerateResource.cache
+D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\obj\Release\СУБД ТВ.csproj.CoreCompileInputs.cache
+D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\ТМП-81 Маневский Роман\Дипломный проект\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

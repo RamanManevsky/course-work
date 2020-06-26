@@ -1,0 +1,22 @@
+C:\Users\student\Desktop\11 - копия\практика раман\WFRam v0.5\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\student\Desktop\11 - копия\практика раман\WFRam v0.5\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\student\Desktop\11 - копия\практика раман\WFRam v0.5\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\student\Desktop\11 - копия\практика раман\WFRam v0.5\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.mainF.resources
+C:\Users\student\Desktop\11 - копия\практика раман\WFRam v0.5\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\student\Desktop\11 - копия\практика раман\WFRam v0.5\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\11 - копия\практика раман\WFRam v0.5\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\student\Desktop\11 - копия\практика раман\WFRam v0.5\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\student\Desktop\11 - копия\практика раман\WFRam v0.5\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Menu.resources
+C:\Users\student\Desktop\11 - копия\практика раман\WFRam v0.5\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\WFRam v0.8\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+E:\WFRam v0.8\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+E:\WFRam v0.8\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\WFRam v0.8\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\WFRam v0.8\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Avto.resources
+E:\WFRam v0.8\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Menu.resources
+E:\WFRam v0.8\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\WFRam v0.8\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\WFRam v0.8\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\WFRam v0.8\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+E:\WFRam v0.8\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+E:\WFRam v0.8\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Contract.resources

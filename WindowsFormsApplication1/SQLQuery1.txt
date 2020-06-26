@@ -1,0 +1,69 @@
+use stand
+create table Tbody(nameb char(15) primary key not null, rat tinyint not null) 
+create table Tlig(namel char(20) primary key not null, rat tinyint not null)
+create table avto(
+	numb int primary key not null, 
+	brand char(30) not null, 
+	tBody char(15) foreign key references Tbody(nameb) not null, 
+	tDrUn char(15) not null, 
+	tTran char(15) not null, 
+	tEng char(15) not null, 
+	tLight char(20) foreign key references Tlig(namel) not null, 
+	ClCont char(15) not null, 
+	color char(15) not null, 
+	NoS int not null, 
+	cost float not null);
+
+create table tenat(
+	adres char(40)  not null, 
+	PhNumb numeric primary key not null, 
+	F char(15) not null, 
+	I char(15) not null, 
+	O char(15) not null)
+
+create table LeaseContr(
+	PNumb numeric foreign key references tenat(PhNumb) not null, 
+	num int foreign key references avto(numb) not null, 
+	number int primary key not null,
+	fullcost float not null,
+	start date not null,
+	endd date not null,
+	passw char(20) not null
+	);
+
+	insert into tLig(namel, rat) 
+Values
+('Лампа накаливания', 1),
+('Галогенные', 2),
+('Светодиодные', 3),
+('Ксеоновые', 4)
+select * from Tlig;
+
+insert into Tbody(nameb, rat) 
+Values
+('Седан', 1),
+('Хэтчбэк', 2),
+('Универсал', 3),
+('Купе', 4),
+('Лифтбэк', 5),
+('Родстер', 6),
+('Пикап', 7),
+('Кроссовер', 8)
+select * from Tbody;
+
+insert into avto(numb, brand, tBody, tDrUn, tTran, tEng, tLight, ClCont, color, NoS, cost) 
+Values
+(1, 'Ford', 'Седан', 'Передний', 'Механическая', 'Бензиновый', 'Светодиодные', 'Нет', 'Красный', 4, 1000),
+(2, 'Opel', 'Хэтчбэк', 'Передний', 'Механическая', 'Бензиновый', 'Светодиодные', 'Нет', 'Красный', 6, 1001),
+(3, 'Bmw', 'Универсал', 'Задний', 'Автоматическая', 'Дизельный', 'Ксеоновые', 'Нет', 'Красный', 5, 1002),
+(4, 'Honda', 'Купе', 'Полный', 'Механическая', 'Роторный', 'Лампа накаливания', 'Нет', 'Красный', 4, 1003),
+(5, 'Opel', 'Лифтбэк', 'Передний', 'Автоматическая', 'Гибридный', 'Галогенные', 'Нет', 'Красный', 6, 1004),
+(6, 'Bmw', 'Кроссовер', 'Задний', 'Механическая', 'Электрический', 'Светодиодные', 'Нет', 'Красный', 5, 1005)
+select * from avto;
+
+insert into tenat(adres, PhNumb, F, I, O) 
+Values
+('Россия Москва, улица Ленина, дом 1 кв 39', +88005553535, 'Имя1', 'Фамилия1', 'Отчество1'),
+('Россия Москва, улица Ленина, дом 1 кв 40', +88005553355, 'Имя2', 'Фамилия2', 'Отчество2'),
+('Россия Москва, улица Ленина, дом 1 кв 41', +88005553366, 'Имя3', 'Фамилия3', 'Отчество3')
+select * from tenat;
